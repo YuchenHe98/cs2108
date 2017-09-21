@@ -1,0 +1,12 @@
+Baseline Retrieval
+MAP: 0.518385904086
+
+Retrieval with Relevance Feedback
+please input the iteration you want to perform
+1
+/Users/yuchenhe/anaconda/lib/python3.6/site-packages/scipy/sparse/compressed.py:774: SparseEfficiencyWarning: Changing the sparsity structure of a csr_matrix is expensive. lil_matrix is more efficient.
+  SparseEfficiencyWarning)
+MAP: 0.626723219321
+
+Retrieval with Relevance Feedback and query expansion
+MAP: 0.629641195932
